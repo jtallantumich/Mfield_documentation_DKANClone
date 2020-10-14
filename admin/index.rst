@@ -3,10 +3,10 @@ User Guide
 ==================
 
 .. warning::
-  **We are in the process of migrating our legacy, user oriented documentation to this site. There are some new changes to DKAN that have not yet been updated in this documentation, so there may be some inconsistencies with how DKAN works in the latest version. There may also be some formatting issues that still need to be corrected as we transfer the documentation from the previous system. Thanks for your patience!**
+  **We are in the process of migrating our legacy, user oriented documentation to this site. There are some new changes to Mfield that have not yet been updated in this documentation, so there may be some inconsistencies with how Mfield works in the latest version. There may also be some formatting issues that still need to be corrected as we transfer the documentation from the previous system. Thanks for your patience!**
 
 
-The Site Manager role is the highest non-technical role available on DKAN sites. Users assigned to this role need a good understanding of how DKAN works, and what administrative actions may be necessary to support the site and its users.
+The Site Manager role is the highest non-technical role available on Mfield sites. Users assigned to this role need a good understanding of how Mfield works, and what administrative actions may be necessary to support the site and its users.
 
 **I'm a Site Manager, what do I need to know?**
 
@@ -19,16 +19,16 @@ As a Site Manager, you build the framework that other roles operate within and b
 **What does a Site Manager handle?**
 
 Data and Content
-   One of the biggest pieces of a DKAN site is of course the data itself. A Site Manager can decide how users can add data and create content, and use special visual tools to showcase the stories and insights gained from datasets.
+   One of the biggest pieces of a Mfield site is of course the data itself. A Site Manager can decide how users can add data and create content, and use special visual tools to showcase the stories and insights gained from datasets.
 
 People
-   Data and content management can't be done alone. Site Managers handle all the users on the site and decide who has access to what. They can also create Groups for organizations, which have :doc:`even more possibilities for roles and permissions <people/dkan_user_accounts>`. Build your team to build your site.
+   Data and content management can't be done alone. Site Managers handle all the users on the site and decide who has access to what. They can also create Groups for organizations, which have :doc:`even more possibilities for roles and permissions <people/Mfield_user_accounts>`. Build your team to build your site.
 
 Structure
-   Creating new Pages, DKAN Topics, creating Groups, etc. are all forms of structure on a DKAN site. Use these structure types to create a framework for other users to operate within and build upon.
+   Creating new Pages, Mfield Topics, creating Groups, etc. are all forms of structure on a Mfield site. Use these structure types to create a framework for other users to operate within and build upon.
 
 Appearance
-   You can make your DKAN site look and feel completely aligned with your organization to give site visitors the best possible experience while going through the site. Add your logo, change page layouts, customize the Home page, or pick out the right fonts to match your brand.
+   You can make your Mfield site look and feel completely aligned with your organization to give site visitors the best possible experience while going through the site. Add your logo, change page layouts, customize the Home page, or pick out the right fonts to match your brand.
 
 
 .. toctree::
